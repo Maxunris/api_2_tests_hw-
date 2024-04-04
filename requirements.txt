@@ -1,0 +1,6 @@
+pytest~=8.0.0
+allure-pytest~=2.13.4
+selene~=2.0.0rc9
+requests
+curlify
+python-dotenv~=1.0.1
